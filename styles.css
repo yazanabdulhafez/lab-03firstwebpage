@@ -49,3 +49,11 @@ font-family: Cursive;
 font-size: 15px;
 
 }
+footer{
+  height: 50px;
+  color: rgba(142, 20, 241, 0.911);
+  background-color:#E547;
+  text-align: center;
+  padding-top: 20px;
+  border: dotted;
+}
