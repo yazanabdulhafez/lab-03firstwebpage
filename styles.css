@@ -1,0 +1,51 @@
+
+.tableofcontent{
+
+  background-color: yellow;
+}
+.container{
+  border: solid;
+ 
+}
+.section1{
+  background-color:antiquewhite;
+
+
+}
+
+.section2{
+
+
+  background-color: aquamarine;
+
+
+}
+.section3{
+padding-top:20px ; 
+border: solid;
+background-color: greenyellow;
+
+
+}
+.nav{
+  font-family: Impact, fantasy;
+  width: 100%;
+background-color: wheat;
+height: 40px;
+float: left;
+border: solid;
+border-color: blue;
+
+}
+
+.parag1{
+
+font-size: 15px;
+font-family: Cursive;
+}
+.parag2{
+color:red;
+font-family: Cursive; 
+font-size: 15px;
+
+}
