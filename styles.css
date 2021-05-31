@@ -1,3 +1,36 @@
+header nav ul li{
+display: inline;
+}
+
+header nav ul li a{
+text-decoration: none;
+
+}
+
+a:hover{
+  color: rgb(238, 8, 20);
+}
+
+header nav ul{
+  float:right;
+  padding-top: 30px;
+}
+
+header img{
+  width:100px ;
+  height:100px ;
+  float: left;
+}
+
+
+
+
+h1{
+  text-align: center;
+  margin-top: 10 px;
+  font-family: IMPACT;
+
+}
 
 .tableofcontent{
 
@@ -15,9 +48,9 @@
 
 .section2{
 
-
-  background-color: aquamarine;
-
+border: solid;
+background-color: hsl(300, 92%, 52%);
+width: 100%;
 
 }
 .section3{
@@ -25,16 +58,17 @@ padding-top:20px ;
 border: solid;
 background-color: greenyellow;
 
-
 }
+
+
 .nav{
-  font-family: Impact, fantasy;
-  width: 100%;
+font-family: Impact, fantasy;
+width: 100%;
 background-color: wheat;
-height: 40px;
+height: 100px;
 float: left;
 border: solid;
-border-color: blue;
+border-color: #ff8800;
 
 }
 
@@ -42,28 +76,48 @@ border-color: blue;
 
 font-size: 15px;
 font-family: Cursive;
+border: solid;
 }
+h2{
+  padding-top: 10px;
+  text-align: center;
+}
+
 .parag2{
-color:red;
+
 font-family: Cursive; 
 font-size: 15px;
 
 }
+#img2{
+  margin-top: 10px;
+  border: solid;
+  border-color: orangered;
+}
+
+.mainimg2{
+  border: solid;
+}
+
 footer{
-  height: 50px;
-  color: rgba(142, 20, 241, 0.911);
-  background-color:#E547;
+  height: 40px;
+  color: #000000;
+  background-color:rgba(240, 35, 12, 0.467);
   text-align: center;
   padding-top: 20px;
   border: dotted;
+  font-display: IMPACT;
 }
 
 #jsimg{
 width:50px;
 height:50px ;
 }
+
 .rating{
   background-color: red;
   font-size: 30px;
   font-family: Cursive;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
